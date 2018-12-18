@@ -1,7 +1,7 @@
 # aruc
 The
 
-##### FIRST CHAPTER!! 
+## aruc  
 The 
 
 
