@@ -1,5 +1,7 @@
 # aruc
-Th
+The
 
 ## FIRST CHAPTER!! 
 The 
+
+
